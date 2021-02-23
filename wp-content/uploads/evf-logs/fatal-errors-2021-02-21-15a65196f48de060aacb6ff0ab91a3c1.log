@@ -1,0 +1,32 @@
+2021-02-21T12:33:45+00:00 CRITICAL Uncaught Error: Undefined constant "ELEMENTOR_VERSION" in C:\xampp\htdocs\ferc-website\wp-content\plugins\themegrill-demo-importer\includes\class-demo-importer.php:845
+Stack trace:
+#0 C:\xampp\htdocs\ferc-website\wp-content\plugins\themegrill-demo-importer\includes\class-demo-importer.php(726): TG_Demo_Importer->import_elementor_schemes('suffice-free', Array)
+#1 C:\xampp\htdocs\ferc-website\wp-includes\class-wp-hook.php(287): TG_Demo_Importer->ajax_import_demo('')
+#2 C:\xampp\htdocs\ferc-website\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\ferc-website\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\ferc-website\wp-admin\admin-ajax.php(184): do_action('wp_ajax_import-...')
+#5 {main}
+  thrown
+
+2021-02-21T12:36:59+00:00 CRITICAL Uncaught Error: Undefined constant "ELEMENTOR_VERSION" in C:\xampp\htdocs\ferc-website\wp-content\plugins\themegrill-demo-importer\includes\class-demo-importer.php:845
+Stack trace:
+#0 C:\xampp\htdocs\ferc-website\wp-content\plugins\themegrill-demo-importer\includes\class-demo-importer.php(726): TG_Demo_Importer->import_elementor_schemes('suffice-free', Array)
+#1 C:\xampp\htdocs\ferc-website\wp-includes\class-wp-hook.php(287): TG_Demo_Importer->ajax_import_demo('')
+#2 C:\xampp\htdocs\ferc-website\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\ferc-website\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\ferc-website\wp-admin\admin-ajax.php(184): do_action('wp_ajax_import-...')
+#5 {main}
+  thrown
+
+2021-02-21T12:45:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2021-02-21T12:49:31+00:00 CRITICAL Uncaught Error: Undefined constant "ELEMENTOR_VERSION" in C:\xampp\htdocs\ferc-website\wp-content\plugins\themegrill-demo-importer\includes\class-demo-importer.php:845
+Stack trace:
+#0 C:\xampp\htdocs\ferc-website\wp-content\plugins\themegrill-demo-importer\includes\class-demo-importer.php(726): TG_Demo_Importer->import_elementor_schemes('suffice-free', Array)
+#1 C:\xampp\htdocs\ferc-website\wp-includes\class-wp-hook.php(287): TG_Demo_Importer->ajax_import_demo('')
+#2 C:\xampp\htdocs\ferc-website\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\ferc-website\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\ferc-website\wp-admin\admin-ajax.php(184): do_action('wp_ajax_import-...')
+#5 {main}
+  thrown
+
