@@ -45,7 +45,7 @@ class Hestia_First_Front_Page_Section extends Hestia_Abstract_Main {
 					<?php
 					// do_action( 'hestia_first_front_page_section_content' );
 					?>
-					<video playsinline="playsinline" controls="" width="100%" poster="https://www.fercfuels.com/resources/images/home/FFMT.jpg">
+					<video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" style="width: 100%;">
 						<source src="https://www.fercph.com/_assets/page/vedios/fercfuels.mp4" type="video/mp4">
 					</video>
 				</div>
