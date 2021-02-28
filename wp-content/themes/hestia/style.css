@@ -754,7 +754,7 @@ aside .widget a {
 
 body {
   direction: ltr;
-  color: #3C4858;
+  color: #013467;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }
 
@@ -800,7 +800,7 @@ h6.category {
 }
 
 .hestia-title, .hestia-title a, .hestia-title a:hover, .title, .title a, .title a:hover, .card-title, .card-title a, .card-title a:hover, .info-title, .info-title a, .info-title a:hover, .footer-brand, .footer-brand a, .footer-brand a:hover, .footer-big h4, .footer-big h4 a, .footer-big h4 a:hover, .footer-big h5, .footer-big h5 a, .footer-big h5 a:hover, .media .media-heading, .media .media-heading a, .media .media-heading a:hover, .woocommerce ul.products[class*="columns-"] li.product-category h2, .woocommerce ul.products[class*="columns-"] li.product-category h2 a, .woocommerce ul.products[class*="columns-"] li.product-category h2 a:hover {
-  color: #3C4858;
+  color: #013467;
   text-decoration: none;
   word-wrap: break-word;
 }
@@ -847,7 +847,7 @@ h2.hestia-title {
 }
 
 .card-description.entry-content {
-  color: #3C4858;
+  color: #013467;
 }
 
 .subscribe-line-image .subscribe-description {
@@ -1435,7 +1435,7 @@ input#searchsubmit,
 
 .btn.btn-border:hover, .btn.btn-border:focus {
   background: transparent;
-  color: #3C4858;
+  color: #013467;
 }
 
 .btn i {
@@ -3108,7 +3108,7 @@ body.admin-bar .navbar {
 }
 
 .card .author a, .card-no-width .author a {
-  color: #3C4858;
+  color: #013467;
   text-decoration: none;
 }
 
@@ -3520,7 +3520,7 @@ table > tbody > tr:last-child,
 
 .big-title-sidebar-wrapper .pirate-forms-contact-widget {
   background: #Fff;
-  color: #3C4858;
+  color: #013467;
   padding: 10px;
   border-radius: 6px;
   -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
@@ -3787,7 +3787,7 @@ table > tbody > tr:last-child,
 }
 
 .hestia-about h1, .hestia-about h2, .hestia-about h3, .hestia-about h4, .hestia-about h5 {
-  color: #3C4858;
+  color: #013467;
   text-decoration: none;
   word-wrap: break-word;
   font-family: "Roboto Slab", "Times New Roman", serif;
@@ -4161,7 +4161,7 @@ table > tbody > tr:last-child,
 .hestia-info .info-title, .info .info-title {
   transition: .3s ease;
   margin: 30px 0 15px;
-  color: #3C4858;
+  color: #013467;
 }
 
 .hestia-info p, .info p {
@@ -4405,7 +4405,7 @@ table > tbody > tr:last-child,
 }
 
 .card-pricing ul li b {
-  color: #3C4858;
+  color: #013467;
 }
 
 .card-pricing .hestia-pricing-icon-wrapper {
@@ -4585,7 +4585,7 @@ table > tbody > tr:last-child,
 }
 
 .footer a {
-  color: #3C4858;
+  color: #013467;
 }
 
 .footer-big {

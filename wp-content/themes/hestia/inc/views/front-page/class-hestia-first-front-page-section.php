@@ -36,15 +36,18 @@ class Hestia_First_Front_Page_Section extends Hestia_Abstract_Main {
 		?>
 		<div id="carousel-hestia-generic" class="carousel slide" data-ride="carousel" 
 		<?php
-		if ( ! empty( $section_style ) ) {
-			echo $section_style; }
-		?>
+		// if ( ! empty( $section_style ) ) {
+		// 	echo $section_style; }
+		// ?>
 		>
 			<div class="carousel slide" data-ride="carousel">
 				<div class="carousel-inner">
 					<?php
-					do_action( 'hestia_first_front_page_section_content' );
+					// do_action( 'hestia_first_front_page_section_content' );
 					?>
+					<video playsinline="playsinline" controls="" width="100%" poster="https://www.fercfuels.com/resources/images/home/FFMT.jpg">
+						<source src="https://www.fercph.com/_assets/page/vedios/fercfuels.mp4" type="video/mp4">
+					</video>
 				</div>
 			</div>
 		</div>
